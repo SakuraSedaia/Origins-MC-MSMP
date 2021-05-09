@@ -1,0 +1,22 @@
+This modpack was assembled by Azura_04, the instructions shown here are for the MOJANG MINECRAFT LAUNCHER, other launchers such as MultiMC or Tlauncher are not guarenteed to work
+
+IF YOU ALREADY HAVE A MODS FOLDER IT IS HIGHLY RECOMMENDED YOU BACK IT UP BEFORE INSTALLING THIS PACK
+=========
+
+1: Default Minecraft Launcher
+2: Fabric Installer
+3: Modpack Archive
+
+To install the modpack first launch plain vanilla 1.16.5 first to ensure the installation moves smoothly. Once the game loads up close it and the launcher, then open the Fabric installer and make sure the version is set to the following 
+
+Minecraft Version: `1.16.5`
+Loader Version: `0.11.3`
+
+Then click `install` to install Fabric. Next up navigate to your .minecraft folder, this depends on the platform but here are the instructions for each platform:
+
+Windows: Press `win + r` or search `run` in the Start Menu, and then type `%appdata%/.minecraft/` and press enter
+
+MacOS: Press `cmd + spacebar` and type `~/Library/Application Support/minecraft`. Then press enter.
+
+
+Now open the Archive and move the `mods` folder contained in the zip into your Minecraft directory, now open up the Minecraft Launcher and press play
